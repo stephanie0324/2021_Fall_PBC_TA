@@ -5,7 +5,7 @@
 ---
 
 ## Week 1
-[作業ㄧ](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_1/PBC_HW1.ipynb）
+[作業ㄧ](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_1/PBC_HW1.ipynb)
 ## Week 2
 [作業二]()
 [TA session]()
