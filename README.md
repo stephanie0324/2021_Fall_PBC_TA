@@ -11,7 +11,7 @@
 ## Week 2 -- Computers and Conditionals
 * 學習 if / else / elif  
 * 練習檔案  
-  [作業二]()    
+  [作業二](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week2/PBC_hw2.ipynb)    
   [10/06_TA session](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week2/TA_Class/1006TA_Session.ipynb)
 ## Week 3
 ## Week 4
