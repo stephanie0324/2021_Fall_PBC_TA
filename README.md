@@ -8,12 +8,18 @@
 * 建立python環境以及輸入，輸出，做簡單的運算。  
 * 練習檔案     
   [作業ㄧ](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_1/PBC_HW1.ipynb)  
+
 ## Week 2 -- Computers and Conditionals
 * 學習 if / else / elif  
 * 練習檔案  
   [作業二](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week2/PBC_hw2.ipynb)    
   [10/06_TA session](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week2/TA_Class/1006TA_Session.ipynb)
+
 ## Week 3
+* 學習 if / else / elif  
+* 練習檔案  
+  [作業三]()    
+  [10/13_TA session]()
 ## Week 4
 ## Week 5
 ## Week 6
