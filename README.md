@@ -18,7 +18,7 @@
 ## Week 3
 * 學習 if / else / elif  
 * 練習檔案  
-  [作業三]()    
+  [作業三](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_3/PBC_hw2.ipynb)    
   [10/13_TA session]()
 ## Week 4
 ## Week 5
