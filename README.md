@@ -7,20 +7,24 @@
 ## Week 1 -- Course Overview and Basics
 * 建立python環境以及輸入，輸出，做簡單的運算。  
 * 練習檔案     
-  [作業ㄧ](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_1/PBC_HW1.ipynb)  
+  [作業零](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_1/PBC_HW1.ipynb)  
 
 ## Week 2 -- Computers and Conditionals
 * 學習 if / else / elif  
 * 練習檔案  
-  [作業二](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week2/PBC_hw2.ipynb)    
+  [作業一](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week2/PBC_hw2.ipynb)    
   [10/06_TA session](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week2/TA_Class/1006TA_Session.ipynb)
 
 ## Week 3
 * 學習 if / else / elif  
 * 練習檔案  
-  [作業三](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_3/PBC_hw2.ipynb)    
+  [作業二](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_3/PBC_hw2.ipynb)    
   [10/13_TA session](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_3/TA_Class/PBC_ta_session3.ipynb)
 ## Week 4
+* 學習
+* 練習檔案  
+  [作業三](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_4/PBC_hw3.ipynb)
+  [10/20 TA session]()
 ## Week 5
 ## Week 6
 ## Week 7
