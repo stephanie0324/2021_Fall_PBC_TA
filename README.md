@@ -23,8 +23,8 @@
 ## Week 4
 * 學習 string /list
 * 練習檔案  
-  [作業三](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_4/PBC_hw3.ipynb)
-  [10/20 TA session]()
+  [作業三](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_4/PBC_hw3.ipynb)  
+  [10/20 TA session](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_4/TA_Class/Week4_TA_Session.ipynb)
 ## Week 5
 ## Week 6
 ## Week 7
