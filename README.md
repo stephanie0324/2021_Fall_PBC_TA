@@ -28,7 +28,7 @@
 ## Week 5
 * 學習 
 * 練習檔案  
-  [作業四]()  
+  [作業四](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_5/PBC_hw4.ipynb)  
   [10/27 TA session]()
 ## Week 6
 ## Week 7
