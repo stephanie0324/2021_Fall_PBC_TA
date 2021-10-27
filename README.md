@@ -26,7 +26,9 @@
   [作業三](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_4/PBC_hw3.ipynb)  
   [10/20 TA session](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_4/TA_Class/Week4_TA_Session.ipynb)
 ## Week 5
-* 學習 
+* 學習 string / list
+  * max/min
+  * remove/append   
 * 練習檔案  
   [作業四](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_5/PBC_hw4.ipynb)  
   [10/27 TA session]()
