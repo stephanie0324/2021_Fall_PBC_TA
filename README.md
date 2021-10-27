@@ -31,7 +31,7 @@
   * remove/append   
 * 練習檔案  
   [作業四](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_5/PBC_hw4.ipynb)  
-  [10/27 TA session]()
+  [10/27 TA session](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_5/TA_Class/PBC_TA_5.ipynb)
 ## Week 6
 ## Week 7
 ## Week 8
