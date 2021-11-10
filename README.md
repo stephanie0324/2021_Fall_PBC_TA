@@ -37,6 +37,11 @@
 * 練習檔案  
   [作業五](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_6/PBC_HW5.ipynb)
 ## Week 7
+* 學習 function 
+  * deep copy v.s shallow copy
+* 練習檔案  
+  [作業六]() 
+  [11/10 TA session]()
 ## Week 8
 ## Week 9
 ## Week 10
