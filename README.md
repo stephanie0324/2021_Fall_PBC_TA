@@ -40,9 +40,13 @@
 * 學習 function 
   * deep copy v.s shallow copy
 * 練習檔案  
-  [作業六]() 
+  [作業六]()   
   [11/10 TA session](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_7/TA_Class/PBC_TA_1110.ipynb)
 ## Week 8
+* 學習 string  
+* 練習檔案  
+  [作業七]()   
+  [11/17 TA session]()
 ## Week 9
 ## Week 10
 ## Week 11
