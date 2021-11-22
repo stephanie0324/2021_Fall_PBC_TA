@@ -45,7 +45,7 @@
 ## Week 8
 * 學習 string  
 * 練習檔案  
-  [作業七]()   
+  [作業七](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_7/PBC_HW7.ipynb)   
   [11/17 TA session]()
 ## Week 9
 ## Week 10
