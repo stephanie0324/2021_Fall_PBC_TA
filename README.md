@@ -48,6 +48,9 @@
   [作業七](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_7/PBC_HW7.ipynb)   
   [11/17 TA session]()
 ## Week 9
+* 助教課停課一週，且沒有同學來問問題～
+* 練習檔案  
+  [作業八](https://github.com/stephanie0324/2021_Fall_PBC_TA/blob/main/Week_9/HW/PBC_hw8.ipynb)
 ## Week 10
 ## Week 11
 ## Week 12
